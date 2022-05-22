@@ -17,5 +17,5 @@ To call this function, write the name of the function followed by parentheses:
 
 1.  [Creating a Function](create-function.py)
 2.  [Arguments in Functions](arguments-functions.py)
-3.  [Default Parameter](break-statement.py)
-4.  [Return Values](continue-statement.py)
+3.  [Default Parameter](default-parameter.py)
+4.  [Return Values](return-values.py)
